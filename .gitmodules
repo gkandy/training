@@ -1,3 +1,6 @@
 [submodule "gopl.io"]
 	path = gopl.io
 	url = git@github.com:adonovan/gopl.io.git
+[submodule "go_learning"]
+	path = go_learning
+	url = git@github.com:superman-geek-time/go_learning
