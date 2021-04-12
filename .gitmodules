@@ -4,3 +4,6 @@
 [submodule "go_learning"]
 	path = go_learning
 	url = git@github.com:superman-geek-time/go_learning
+[submodule "gobyexample"]
+	path = gobyexample
+	url = git@github.com:mmcgrana/gobyexample.git
