@@ -7,3 +7,6 @@
 [submodule "gobyexample"]
 	path = gobyexample
 	url = git@github.com:mmcgrana/gobyexample.git
+[submodule "Golang_Puzzlers"]
+	path = Golang_Puzzlers
+	url = git@github.com:hyper0x/Golang_Puzzlers.git
